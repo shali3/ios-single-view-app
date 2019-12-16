@@ -1,0 +1,22 @@
+PODS:
+  - "Protobuf-C++ (3.11.1)"
+
+DEPENDENCIES:
+  - "Protobuf-C++ (from `https://github.com/protocolbuffers/protobuf.git`, tag `v3.11.1`)"
+
+EXTERNAL SOURCES:
+  "Protobuf-C++":
+    :git: https://github.com/protocolbuffers/protobuf.git
+    :tag: v3.11.1
+
+CHECKOUT OPTIONS:
+  "Protobuf-C++":
+    :git: https://github.com/protocolbuffers/protobuf.git
+    :tag: v3.11.1
+
+SPEC CHECKSUMS:
+  "Protobuf-C++": a7655c39b3fcfccfc8b4cbfc2acb9e1014c17f83
+
+PODFILE CHECKSUM: 01dace461c9bfe87a59d9b482ec38cd789ee62f8
+
+COCOAPODS: 1.8.4
